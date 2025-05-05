@@ -1,0 +1,12 @@
+body {
+    background-image: url(https://st2.depositphotos.com/3008028/5544/i/450/depositphotos_55447983-stock-illustration-abstract-light-blue-background.jpg);
+    background-size: cover;  
+    background-position: center;
+     background-repeat: no-repeat;
+  }
+ 
+  nav {
+    height: 4.63em;
+      flex:100%;
+   
+  }
